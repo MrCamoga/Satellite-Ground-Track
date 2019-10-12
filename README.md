@@ -1,3 +1,3 @@
 # Satellite-Ground-Track
-Ground Track for graphing satellite orbits
+Graph satellite orbits on equirectangular projection
 ![alt text](/res/satellites.png)
